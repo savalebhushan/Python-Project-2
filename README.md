@@ -1,19 +1,25 @@
 # Python-Project-2
 Project Explanation - Whatsapp Chat Analysis
+
 Introduction
 • The WhatsApp Chat Analysis project provides a comprehensive platform
 where users can upload and analyze their WhatsApp conversations, be it
 individual or group chats.
+
 • With the WhatsApp Chat Analysis project, you can upload your chats
 and get to know about—total messages, words, media, and links shared.
+
 • Visualize your chat trends with monthly timelines, daily graphs, and
 discover the most active users.
+
 • It's like a personal guide to understanding your WhatsApp talks. By
 using Streamlit the project transforms into an interactive application
 accessible through your web browser.
+
 Data Upload
 • Users can upload WhatsApp chat data for personalized analysis.
-Statistical Insights
+Statistical Insights.
+
 • The project delivers essential metrics, including total messages, words,
 media shared, and links provided.
 
@@ -45,19 +51,24 @@ understanding of chat content.
 Monthly Timeline Visualization
 • Plot the monthly timeline of messages using matplotlib.
 Daily Timeline Visualization
+
 • Plot the daily timeline of messages.
-Activity Map Visualization
+Activity Map Visualization.
+
 • Display the most active day and month using bar graphs.
+
 • Present a weekly activity map as a heatmap.
 
 Most Busy Users Visualization
 • If analyzing the overall group, show the most busy users using bar graphs
 and a dataframe.
+
 • Plot the bar graph of the most common words.
 
 Emoji Analysis
 • Analyze and display emoji usage with a dataframe and a pie chart.
-Model Deployment
+Model Deployment.
+
 • The project comes to life through Streamlit, a user-friendly library for
 creating interactive web applications.
 
